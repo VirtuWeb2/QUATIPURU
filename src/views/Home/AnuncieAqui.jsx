@@ -12,7 +12,7 @@ const AnuncieAqui = ({loadingTvPosts, tvPosts}) => {
   return (
     <>
     <Helmet>
-        <title>Anuncie aqui | É Notícia Nova Timboteua</title>
+        <title>Anuncie aqui | É Notícia Quatipuru</title>
     </Helmet>
       <Header />
       <div

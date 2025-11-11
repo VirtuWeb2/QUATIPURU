@@ -11,7 +11,7 @@ const Seguranca = ({news, loadingNews, tvPosts,loadingTvPosts}) => {
   return (
     <>
       <Helmet>
-        <title>Segurança | É Notícia Nova Timboteua</title>
+        <title>Segurança | É Notícia Quatipuru</title>
       </Helmet>
       <Header />
       <Ad/>
